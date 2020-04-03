@@ -14,7 +14,7 @@ EZ-Include-Path provides a simple and clean way to use absolute paths with PHP's
 ```
 // include_once Path::match(this, $_SERVER['DOCUMENT_ROOT']."/EZ-Include-Path/to/connecting_class.php");
 
-Example 2: connecting_class defined in path.php
+//Example 2: connecting_class defined in path.php
 include_once Path::match(this, connecting_class);
 
 connecting_class::test(); 
