@@ -1,6 +1,6 @@
 <?php
 
-define("connecting_class" , $_SERVER['DOCUMENT_ROOT']."/path/to/connecting_class.php",true);
+define("connecting_class" , $_SERVER['DOCUMENT_ROOT']."/EZ-Include-Path/to/connecting_class.php",true);
 //Define for Path::match
 define("me", Path::this_absolute_path(),true);
 define("this", Path::this_absolute_path(),true);
