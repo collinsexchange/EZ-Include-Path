@@ -1,6 +1,8 @@
 # PHP - EZ-Include-Path
 
-EZ-Include-Path provides a simple and clean way to use absolute paths with PHP's include construct allowing developers to include files into php scripts without the need for autoloading. Zero dependencies.
+EZ-Include-Path provides a simple and clean way to use absolute paths with PHP's include construct allowing developers to include files into php scripts without the need for autoloading. Zero dependencies. 
+
+Not having to use relative paths with the include construct prevents errors and headaches.
 
 ## Install
 ``` git clone (url) . ```
