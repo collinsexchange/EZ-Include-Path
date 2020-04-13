@@ -1,4 +1,5 @@
-# PHP - EZ-Include-Path (built thhis before I learned to use psr-4 autoloading
+# PHP - EZ-Include-Path 
+(built thhis before I learned to use psr-4 autoloading)
 
 EZ-Include-Path provides a simple and clean way to use absolute paths with PHP's include construct allowing developers to include files into php scripts without the need for autoloading. #However, justin use psr-4 autoloading.
 
